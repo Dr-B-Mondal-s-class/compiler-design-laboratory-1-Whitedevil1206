@@ -1,0 +1,3 @@
+int var = 10;
+int var2 = 10.20;
+int sum = var + var2;

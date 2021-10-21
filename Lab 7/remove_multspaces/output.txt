@@ -1,0 +1,1 @@
+intvariable=35.35;s=s+2;
